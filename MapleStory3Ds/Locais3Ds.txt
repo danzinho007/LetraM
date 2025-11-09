@@ -1,0 +1,30 @@
+Maple_Story_3Ds:
+
+Locais:
+Ariant - Ariant = Cidade
+Ariant - Arian Castle 
+Ariant - Ariant Station Plataform = Estação
+Ariant - Cactus Desert I / II / 
+Ariant - Desert of Red Sand I / II / III
+Ariant - Dry Desert
+Ariant - Desert Nomads Ruins
+Ariant - East Gate of Ariant
+Ariant - Entertainers Tent
+Ariant - North Gate of Ariant
+Ariant - North Desert Road
+Ariant - The Scorching Desert
+Ariant - West Gate of Ariant 
+Ariant - White Rock Desert
+Herb Town - Pirate Ship 1
+HerbTown - PirateCaptainsRoom
+HerbTown - PirateShipKitchen
+Magatia - Magatia = Cidade
+MuLung - DojoEntrance
+Orbis - CloudPark 4
+Orbis - GardenOfDarkness
+Orbis - GardenOfRed
+Orbis - OrbisStation
+Pyramid - Netts Pyramid 9
+Pyramid - Pharaohs Room
+Pyramid - Pyramid Dunes
+Pyramid - Sahel 1 / 2 / 3 

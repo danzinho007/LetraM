@@ -1,0 +1,3 @@
+Magic_Novidades
+1-Movido pra pasta LetraM devido a enorme número de pastas no Github
+2-Criado arquivo Sites
