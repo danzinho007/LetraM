@@ -1,0 +1,34 @@
+6-Qual desses problemas é de regressão?
+A) Prever se um paciente tem gripe ou não.
+B) Prever a temperatura de amanhã em °C.
+C) Determinar o tipo de fruta com base na cor.
+D) Classificar emails como spam ou não.
+Exemplo: Se você quer saber quantos graus fará amanhã, é regressão porque o resultado é um número contínuo.
+
+7-Qual algoritmo você usaria para identificar se imagens contêm gatos ou cachorros?
+A) K-Means
+B) Regressão Linear
+C) Redes Neurais Convolucionais (CNN)
+D) PCA
+Exemplo: Se você quer classificar imagens em categorias, CNN é indicada porque consegue reconhecer padrões visuais.
+
+8-Em aprendizado não supervisionado, o que acontece?
+A) Temos rótulos para cada dado e treinamos o modelo com eles.
+B) O modelo tenta encontrar padrões ou grupos nos dados sem rótulos.
+C) O modelo sempre prevê números.
+D) O modelo não precisa de dados.
+Exemplo: Se você tem dados de clientes e quer descobrir grupos de comportamento sem saber nada sobre eles, é não supervisionado.
+
+9-O que significa underfitting (subajuste)?
+A) O modelo é complexo demais e memoriza os dados.
+B) O modelo não aprendeu bem os padrões e erra tanto nos dados de treino quanto nos novos.
+C) O modelo aprendeu perfeitamente.
+D) O modelo só funciona com redes neurais.
+Exemplo: Se seu modelo de regressão linear não consegue se ajustar a uma curva simples dos dados, ele está subajustado.
+
+10-Qual métrica é usada para medir a acurácia em classificação binária?
+A) MSE (Erro Quadrático Médio)
+B) Acurácia (Accuracy)
+C) PCA
+D) K-Means
+Exemplo: Se você tem um modelo que classifica emails como spam ou não, a acurácia é a proporção de acertos sobre o total.

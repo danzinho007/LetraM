@@ -1,0 +1,23 @@
+16-Regressão Linear Simples:
+Você treinou um modelo com a fórmula : y = 2x + 3
+Se a entrada for x = 5, qual será a previsão y ?
+
+17-Erro Médio ( MAE = Mean Absolute Error )
+Valores reais : 10,15,20
+Previsões : 12,14,18
+
+18-Acurácia simples ( Classificação )
+Modelo acertou 8 previsões de 10 testes
+Qual sua precisão ?
+
+19-Overfitting 
+Modelo A: Treino 99% Teste 70%
+Modelo B: Treino 88% Teste 85%
+Qual modelo está com overfitting ?
+
+20-Regressão
+Modelo A :
+Quando X era 1 Y era 3
+Quando X era 2 Y era 5
+Quando X era 3 Y era 7
+Quando X for 4 Y será ?

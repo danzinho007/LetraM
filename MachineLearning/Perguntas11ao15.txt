@@ -1,0 +1,57 @@
+11-1Mini-dados de vendas de uma loja:
+Dia    Vendas
+1    100
+2    120
+3    130
+4    150
+Se você quisesse prever as vendas do dia 5, qual tipo de modelo seria mais apropriado?
+A) Classificação
+B) Regressão
+C) Clustering
+D) PCA
+
+12-Mini-dados de alunos:
+Aluno    Nota Final
+A    85
+B    92
+C    70
+D    88
+Você quer classificar se o aluno passou (>=75) ou não (<75). Qual abordagem usar?
+A) Regressão Linear
+B) Classificação
+C) Clustering
+D) Redução de Dimensionalidade
+
+13-Mini-dados de clientes (não tem rótulo):
+Cliente    Compras no mês    Gastos médios
+1    2    100
+2    5    300
+3    3    150
+4    6    400
+Você quer encontrar grupos de clientes semelhantes. Qual abordagem usar?
+A) Regressão
+B) Classificação
+C) Clustering
+D) PCA
+
+14-Mini-dados de acurácia:
+Você treinou dois modelos para detectar spam:
+Modelo    Treino (%)    Teste (%)
+A    99    60
+B    80    78
+Qual problema o Modelo A provavelmente tem?
+A) Underfitting
+B) Overfitting
+C) Boa generalização
+D) Não supervisionado
+
+15-Mini-dados de temperatura:
+Cidade    Temperatura (°C)
+X    25
+Y    30
+Z    28
+Você quer reduzir os dados para uma única dimensão que capture a variação principal. Qual técnica usar?
+A) K-Means
+B) Regressão Linear
+C) PCA
+D) Classificação

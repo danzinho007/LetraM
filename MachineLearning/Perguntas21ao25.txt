@@ -1,0 +1,34 @@
+1. Erro Quadrático Médio (MSE)
+
+Valores reais: [3, 5, 2]
+Previsões: [4, 4, 3]
+
+
+2. Normalização Min-Max
+
+Dado:
+Valor = 80
+Mínimo = 50
+Máximo = 100
+
+3-Matriz de Confusão (Interpretação)
+
+------------------------Preditivo--------Preditivo
+------------------------Positivo --------Negativo
+Verdadeiro Positivo (VP) 50
+Verdadeiro Negativo (VN) -               40
+Falso Positivo (FP)      10
+Falso Negativo (FN)      -               5
+
+Quantas previsões o modelo acertou no total ?
+
+4-Precisão (Precisio)
+
+Fórmula : Precisão = VP / VP + FP
+Usando os mesmos dados da questão 3:
+VP = 50, FP = 10
+
+5-Revocação (Recall)
+
+Fórmula : Recall = VP / (VP + FN)
+
